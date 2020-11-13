@@ -1,0 +1,10 @@
+C:\Users\makus\source\repos\Makushkin_EV_11_11_20\Makushkin_EV_11_11_20\bin\Debug\Makushkin_EV_11_11_20.exe.config
+C:\Users\makus\source\repos\Makushkin_EV_11_11_20\Makushkin_EV_11_11_20\bin\Debug\Makushkin_EV_11_11_20.exe
+C:\Users\makus\source\repos\Makushkin_EV_11_11_20\Makushkin_EV_11_11_20\bin\Debug\Makushkin_EV_11_11_20.pdb
+C:\Users\makus\source\repos\Makushkin_EV_11_11_20\Makushkin_EV_11_11_20\obj\Debug\Makushkin_EV_11_11_20.csprojAssemblyReference.cache
+C:\Users\makus\source\repos\Makushkin_EV_11_11_20\Makushkin_EV_11_11_20\obj\Debug\Makushkin_EV_11_11_20.MainForm.resources
+C:\Users\makus\source\repos\Makushkin_EV_11_11_20\Makushkin_EV_11_11_20\obj\Debug\Makushkin_EV_11_11_20.Properties.Resources.resources
+C:\Users\makus\source\repos\Makushkin_EV_11_11_20\Makushkin_EV_11_11_20\obj\Debug\Makushkin_EV_11_11_20.csproj.GenerateResource.cache
+C:\Users\makus\source\repos\Makushkin_EV_11_11_20\Makushkin_EV_11_11_20\obj\Debug\Makushkin_EV_11_11_20.csproj.CoreCompileInputs.cache
+C:\Users\makus\source\repos\Makushkin_EV_11_11_20\Makushkin_EV_11_11_20\obj\Debug\Makushkin_EV_11_11_20.exe
+C:\Users\makus\source\repos\Makushkin_EV_11_11_20\Makushkin_EV_11_11_20\obj\Debug\Makushkin_EV_11_11_20.pdb
